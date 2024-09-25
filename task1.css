@@ -1,0 +1,221 @@
+nav{
+    background-color: rgb(26, 203, 144);
+    text-align: center;
+    word-spacing: 30px;
+    width: auto;
+    padding-top:50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;  
+    
+}
+a{
+   
+  text-decoration-line: none;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    
+  
+
+}
+.aa{
+  text-decoration-line: none;
+  color: white;
+  padding-left: 200px;
+}
+.div1{
+    background-image: url('solarpanel.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 300px;
+    position: relative;
+    text-align:justify;
+    color: white;
+    padding-top: 50px;
+    padding-left: 80px;  
+
+}
+.div2{
+    word-spacing: 30px;
+    margin-bottom: 100px;
+}
+.link1{
+    color : white;
+    background-color:rgb(118, 226, 118);
+    border-radius: 20px;
+    margin-left: inherit;
+   padding-top: 10px;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   padding-right: 10px;
+}
+.link2{
+    color: black;
+    background-color: orange;
+    border-radius: 20px;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.div3{
+    padding-top: 50px;
+    padding-left: 80px;
+    margin-right: 50px;
+}
+span{
+    color: green;
+}
+.div4{
+    background-image: url('8116 1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    text-align:justify;
+    color: white;
+    padding-top: 50px;
+    padding-left: 80px; 
+    height: 350px; 
+}
+.link3{
+    color : white;
+    background-color:orange;
+    border-radius: 20px;
+    margin-left: inherit;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.column {
+   flex:33.33%;
+   padding:5px;
+  }
+  .link4{
+    text-decoration-line: none;
+    color: green;
+  }
+  .sh{
+    text-align: center;
+  }
+ 
+.row{
+    display: flex;
+}
+.container{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-block {
+    position: absolute;
+    bottom: 100px;
+    right: 400px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+  }
+  .row1{
+    display: flex;
+    margin-left: 20px;
+  }
+  .columnhh{
+    flex:33.33%;
+    padding:5px;
+  }
+  .column1{
+    background-color: rgb(204, 238, 238);
+    border: 1px solid;
+    border-radius:10px ;
+    flex:33.33%;
+    padding:20px;
+    text-align: left;
+    margin-right: 20px;
+    margin-top: 20px;
+
+  }
+  .link5{
+    text-decoration-line: none;
+    color: green;
+  }
+  .row2{
+    display:flex;
+    margin-left: 300px;
+  }
+  .column2{
+    background-color: rgb(204, 238, 238);
+    border: 1px solid;
+    border-radius:10px ;
+    flex:33.33%;
+    padding:20px;
+    text-align: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+
+  }
+  .hp{
+    text-align: center;
+  }
+  .row3{
+    display:flex;
+
+  }
+
+.column3{
+    background-color: rgb(204, 238, 238);
+    border: 1px solid;
+    border-radius:10px ;
+    flex:33.33%;
+    padding:20px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+
+  }
+  .row4{
+    display:flex;
+     margin-left: 50px;
+
+  }
+  .column4{
+    background-color: rgb(204, 238, 238);
+    border: 1px solid;
+    border-radius:10px ;
+    flex:33.33%;
+    padding:20px;
+    text-align: left;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+  
+  .footer {
+    
+    width: 100%;
+    height: 100%;
+    background: #313950;
+    border-radius: 6px;
+    padding-left: 50px;
+    padding-top: 20px;
+  }
+  .footer .footer-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 3.5rem;
+    padding: 60px;
+  }
+  .link6{
+    word-spacing: 30px;
+  }
+  .link7{
+    word-spacing:30px ;
+  }
